@@ -40,7 +40,10 @@
 * Authorization code (front + back)
 * Implicit (front channel only)
 * Resource owner password credentials (back channel only)
-* Client credentials 
+* Client credentials
+
+* Was designed for authorization, but has been also used for authentication
+* OpenID Connect (layer on OAth 2.0) for authentication
 
 
 
